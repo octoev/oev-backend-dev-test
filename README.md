@@ -15,7 +15,7 @@ Across our various leasing products we use 'ratebooks' which list the rentals fo
 
 - How the data is ingested is up to you (e.g. cli command/api request etc)
 - The data model and database schema is also up to you
-- Use a lightweight framework such as Flask or FastAPI
+- Use a lightweight framework; we suggest FastAPI
 - Use SQLite or Postgres for the database
 - Include a .git folder with the commit history for the project
 - Include a README.md that explains how to setup and run the project and any assumptions you've made
